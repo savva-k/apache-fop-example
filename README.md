@@ -1,7 +1,7 @@
 # apache-fop-example
 This is a simple tutorial that explains how to use Apache FOP to create a PDF file from a bean
 
-[Read the tutorial in my blog](https://imsavva.com/generating-pdf-with-apache-fop-and-maven-(tutorial))
+[Read the tutorial in my blog](https://imsavva.com/generating-pdf-with-apache-fop-and-maven-tutorial)
 
 ## Running
 
